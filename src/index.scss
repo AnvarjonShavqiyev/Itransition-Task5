@@ -1,0 +1,17 @@
+@font-face {
+  font-family: "googleSans";
+  src: url("./assets/fonts/googleSans/GoogleSans-Regular.ttf");
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "googleSans";
+}
+body {
+  padding: 0 40px;
+}
+a {
+  text-decoration: none;
+  color: #000;
+}
